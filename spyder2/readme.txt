@@ -1,0 +1,1 @@
+/home/noam/.spyder2/

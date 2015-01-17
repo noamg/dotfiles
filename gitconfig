@@ -1,0 +1,14 @@
+[user]
+	name = noam gavish
+	email = gavishnoam@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = meld
+[mergetool "meld"]
+	path = /usr/bin/meld
+[diff]
+	tool = meld
+	external = /home/noam/scripts/git_meld_diff.py
+[difftool "meld"]
+	path = /usr/bin/meld
